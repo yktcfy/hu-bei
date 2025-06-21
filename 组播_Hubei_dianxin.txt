@@ -1,5 +1,37 @@
 Hubei_dianxin-组播,#genre#
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
+http://111.177.118.41:8880/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
+http://111.177.118.41:8880/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
+http://111.177.118.41:8880/rtp/239.69.1.41:9886
+#EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
+http://111.177.118.41:8880/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
+http://111.177.118.41:8880/rtp/239.69.1.205:10872
+#EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
+http://111.177.118.41:8880/rtp/239.69.1.206:10878
+#EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
+http://111.177.118.41:8880/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
+http://111.177.118.41:8880/rtp/239.69.1.146:10512
+#EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
+http://111.177.118.41:8880/rtp/239.69.1.251:11148
+#EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
+http://111.177.118.41:8880/rtp/239.69.1.147:10518
+#EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
+http://111.177.118.41:8880/rtp/239.69.1.36:9856
+#EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
+http://111.177.118.41:8880/rtp/239.69.1.60:9994
+#EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
+http://111.177.118.41:8880/rtp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
+http://111.177.118.41:8880/rtp/239.69.1.192:10794
+#EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
+http://111.177.118.41:8880/rtp/239.69.1.245:11112
+#EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
+http://111.177.118.41:8880/rtp/239.69.1.34:9844
+#EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://111.179.198.87:8090/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
 http://111.179.198.87:8090/rtp/239.69.1.40:9880
@@ -96,37 +128,37 @@ http://119.102.168.173:8088/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://119.102.168.173:8088/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://119.102.174.126:4022/rtp/239.69.1.204:10866
+http://119.102.172.152:4022/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://119.102.174.126:4022/rtp/239.69.1.40:9880
+http://119.102.172.152:4022/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://119.102.174.126:4022/rtp/239.69.1.41:9886
+http://119.102.172.152:4022/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://119.102.174.126:4022/rtp/239.69.1.42:9892
+http://119.102.172.152:4022/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://119.102.174.126:4022/rtp/239.69.1.205:10872
+http://119.102.172.152:4022/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://119.102.174.126:4022/rtp/239.69.1.206:10878
+http://119.102.172.152:4022/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://119.102.174.126:4022/rtp/239.69.1.145:10506
+http://119.102.172.152:4022/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://119.102.174.126:4022/rtp/239.69.1.146:10512
+http://119.102.172.152:4022/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://119.102.174.126:4022/rtp/239.69.1.251:11148
+http://119.102.172.152:4022/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://119.102.174.126:4022/rtp/239.69.1.147:10518
+http://119.102.172.152:4022/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://119.102.174.126:4022/rtp/239.69.1.36:9856
+http://119.102.172.152:4022/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://119.102.174.126:4022/rtp/239.69.1.60:9994
+http://119.102.172.152:4022/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://119.102.174.126:4022/rtp/239.69.1.43:9898
+http://119.102.172.152:4022/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://119.102.174.126:4022/rtp/239.69.1.192:10794
+http://119.102.172.152:4022/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://119.102.174.126:4022/rtp/239.69.1.245:11112
+http://119.102.172.152:4022/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://119.102.174.126:4022/rtp/239.69.1.34:9844
+http://119.102.172.152:4022/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://119.102.239.232:8888/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
@@ -192,37 +224,37 @@ http://119.98.140.124:4022/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://119.98.140.124:4022/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://121.61.87.209:9999/rtp/239.69.1.204:10866
+http://121.61.87.8:9999/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://121.61.87.209:9999/rtp/239.69.1.40:9880
+http://121.61.87.8:9999/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://121.61.87.209:9999/rtp/239.69.1.41:9886
+http://121.61.87.8:9999/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://121.61.87.209:9999/rtp/239.69.1.42:9892
+http://121.61.87.8:9999/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://121.61.87.209:9999/rtp/239.69.1.205:10872
+http://121.61.87.8:9999/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://121.61.87.209:9999/rtp/239.69.1.206:10878
+http://121.61.87.8:9999/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://121.61.87.209:9999/rtp/239.69.1.145:10506
+http://121.61.87.8:9999/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://121.61.87.209:9999/rtp/239.69.1.146:10512
+http://121.61.87.8:9999/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://121.61.87.209:9999/rtp/239.69.1.251:11148
+http://121.61.87.8:9999/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://121.61.87.209:9999/rtp/239.69.1.147:10518
+http://121.61.87.8:9999/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://121.61.87.209:9999/rtp/239.69.1.36:9856
+http://121.61.87.8:9999/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://121.61.87.209:9999/rtp/239.69.1.60:9994
+http://121.61.87.8:9999/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://121.61.87.209:9999/rtp/239.69.1.43:9898
+http://121.61.87.8:9999/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://121.61.87.209:9999/rtp/239.69.1.192:10794
+http://121.61.87.8:9999/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://121.61.87.209:9999/rtp/239.69.1.245:11112
+http://121.61.87.8:9999/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://121.61.87.209:9999/rtp/239.69.1.34:9844
+http://121.61.87.8:9999/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://219.139.62.179:60001/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
@@ -256,101 +288,133 @@ http://219.139.62.179:60001/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://219.139.62.179:60001/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://219.140.140.109:8880/rtp/239.69.1.204:10866
+http://219.140.148.39:8880/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://219.140.140.109:8880/rtp/239.69.1.40:9880
+http://219.140.148.39:8880/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://219.140.140.109:8880/rtp/239.69.1.41:9886
+http://219.140.148.39:8880/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://219.140.140.109:8880/rtp/239.69.1.42:9892
+http://219.140.148.39:8880/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://219.140.140.109:8880/rtp/239.69.1.205:10872
+http://219.140.148.39:8880/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://219.140.140.109:8880/rtp/239.69.1.206:10878
+http://219.140.148.39:8880/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://219.140.140.109:8880/rtp/239.69.1.145:10506
+http://219.140.148.39:8880/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://219.140.140.109:8880/rtp/239.69.1.146:10512
+http://219.140.148.39:8880/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://219.140.140.109:8880/rtp/239.69.1.251:11148
+http://219.140.148.39:8880/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://219.140.140.109:8880/rtp/239.69.1.147:10518
+http://219.140.148.39:8880/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://219.140.140.109:8880/rtp/239.69.1.36:9856
+http://219.140.148.39:8880/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://219.140.140.109:8880/rtp/239.69.1.60:9994
+http://219.140.148.39:8880/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://219.140.140.109:8880/rtp/239.69.1.43:9898
+http://219.140.148.39:8880/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://219.140.140.109:8880/rtp/239.69.1.192:10794
+http://219.140.148.39:8880/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://219.140.140.109:8880/rtp/239.69.1.245:11112
+http://219.140.148.39:8880/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://219.140.140.109:8880/rtp/239.69.1.34:9844
+http://219.140.148.39:8880/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://219.140.140.183:8880/rtp/239.69.1.204:10866
+http://219.140.149.250:8880/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://219.140.140.183:8880/rtp/239.69.1.40:9880
+http://219.140.149.250:8880/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://219.140.140.183:8880/rtp/239.69.1.41:9886
+http://219.140.149.250:8880/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://219.140.140.183:8880/rtp/239.69.1.42:9892
+http://219.140.149.250:8880/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://219.140.140.183:8880/rtp/239.69.1.205:10872
+http://219.140.149.250:8880/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://219.140.140.183:8880/rtp/239.69.1.206:10878
+http://219.140.149.250:8880/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://219.140.140.183:8880/rtp/239.69.1.145:10506
+http://219.140.149.250:8880/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://219.140.140.183:8880/rtp/239.69.1.146:10512
+http://219.140.149.250:8880/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://219.140.140.183:8880/rtp/239.69.1.251:11148
+http://219.140.149.250:8880/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://219.140.140.183:8880/rtp/239.69.1.147:10518
+http://219.140.149.250:8880/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://219.140.140.183:8880/rtp/239.69.1.36:9856
+http://219.140.149.250:8880/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://219.140.140.183:8880/rtp/239.69.1.60:9994
+http://219.140.149.250:8880/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://219.140.140.183:8880/rtp/239.69.1.43:9898
+http://219.140.149.250:8880/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://219.140.140.183:8880/rtp/239.69.1.192:10794
+http://219.140.149.250:8880/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://219.140.140.183:8880/rtp/239.69.1.245:11112
+http://219.140.149.250:8880/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://219.140.140.183:8880/rtp/239.69.1.34:9844
+http://219.140.149.250:8880/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://219.140.141.179:8880/rtp/239.69.1.204:10866
+http://219.140.150.171:8880/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://219.140.141.179:8880/rtp/239.69.1.40:9880
+http://219.140.150.171:8880/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://219.140.141.179:8880/rtp/239.69.1.41:9886
+http://219.140.150.171:8880/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://219.140.141.179:8880/rtp/239.69.1.42:9892
+http://219.140.150.171:8880/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://219.140.141.179:8880/rtp/239.69.1.205:10872
+http://219.140.150.171:8880/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://219.140.141.179:8880/rtp/239.69.1.206:10878
+http://219.140.150.171:8880/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://219.140.141.179:8880/rtp/239.69.1.145:10506
+http://219.140.150.171:8880/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://219.140.141.179:8880/rtp/239.69.1.146:10512
+http://219.140.150.171:8880/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://219.140.141.179:8880/rtp/239.69.1.251:11148
+http://219.140.150.171:8880/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://219.140.141.179:8880/rtp/239.69.1.147:10518
+http://219.140.150.171:8880/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://219.140.141.179:8880/rtp/239.69.1.36:9856
+http://219.140.150.171:8880/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://219.140.141.179:8880/rtp/239.69.1.60:9994
+http://219.140.150.171:8880/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://219.140.141.179:8880/rtp/239.69.1.43:9898
+http://219.140.150.171:8880/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://219.140.141.179:8880/rtp/239.69.1.192:10794
+http://219.140.150.171:8880/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://219.140.141.179:8880/rtp/239.69.1.245:11112
+http://219.140.150.171:8880/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://219.140.141.179:8880/rtp/239.69.1.34:9844
+http://219.140.150.171:8880/rtp/239.69.1.34:9844
+#EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
+http://219.140.151.227:8880/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
+http://219.140.151.227:8880/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
+http://219.140.151.227:8880/rtp/239.69.1.41:9886
+#EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
+http://219.140.151.227:8880/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
+http://219.140.151.227:8880/rtp/239.69.1.205:10872
+#EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
+http://219.140.151.227:8880/rtp/239.69.1.206:10878
+#EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
+http://219.140.151.227:8880/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
+http://219.140.151.227:8880/rtp/239.69.1.146:10512
+#EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
+http://219.140.151.227:8880/rtp/239.69.1.251:11148
+#EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
+http://219.140.151.227:8880/rtp/239.69.1.147:10518
+#EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
+http://219.140.151.227:8880/rtp/239.69.1.36:9856
+#EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
+http://219.140.151.227:8880/rtp/239.69.1.60:9994
+#EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
+http://219.140.151.227:8880/rtp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
+http://219.140.151.227:8880/rtp/239.69.1.192:10794
+#EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
+http://219.140.151.227:8880/rtp/239.69.1.245:11112
+#EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
+http://219.140.151.227:8880/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://219.140.36.229:12345/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
@@ -415,6 +479,38 @@ http://221.233.156.10:9000/rtp/239.69.1.192:10794
 http://221.233.156.10:9000/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://221.233.156.10:9000/rtp/239.69.1.34:9844
+#EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
+http://221.234.166.1:8686/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
+http://221.234.166.1:8686/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
+http://221.234.166.1:8686/rtp/239.69.1.41:9886
+#EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
+http://221.234.166.1:8686/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
+http://221.234.166.1:8686/rtp/239.69.1.205:10872
+#EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
+http://221.234.166.1:8686/rtp/239.69.1.206:10878
+#EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
+http://221.234.166.1:8686/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
+http://221.234.166.1:8686/rtp/239.69.1.146:10512
+#EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
+http://221.234.166.1:8686/rtp/239.69.1.251:11148
+#EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
+http://221.234.166.1:8686/rtp/239.69.1.147:10518
+#EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
+http://221.234.166.1:8686/rtp/239.69.1.36:9856
+#EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
+http://221.234.166.1:8686/rtp/239.69.1.60:9994
+#EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
+http://221.234.166.1:8686/rtp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
+http://221.234.166.1:8686/rtp/239.69.1.192:10794
+#EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
+http://221.234.166.1:8686/rtp/239.69.1.245:11112
+#EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
+http://221.234.166.1:8686/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://221.235.138.246:4022/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
@@ -608,38 +704,6 @@ http://27.22.44.40:10000/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://27.22.44.40:10000/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://27.22.68.89:8880/rtp/239.69.1.204:10866
-#EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://27.22.68.89:8880/rtp/239.69.1.40:9880
-#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://27.22.68.89:8880/rtp/239.69.1.41:9886
-#EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://27.22.68.89:8880/rtp/239.69.1.42:9892
-#EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://27.22.68.89:8880/rtp/239.69.1.205:10872
-#EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://27.22.68.89:8880/rtp/239.69.1.206:10878
-#EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://27.22.68.89:8880/rtp/239.69.1.145:10506
-#EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://27.22.68.89:8880/rtp/239.69.1.146:10512
-#EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://27.22.68.89:8880/rtp/239.69.1.251:11148
-#EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://27.22.68.89:8880/rtp/239.69.1.147:10518
-#EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://27.22.68.89:8880/rtp/239.69.1.36:9856
-#EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://27.22.68.89:8880/rtp/239.69.1.60:9994
-#EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://27.22.68.89:8880/rtp/239.69.1.43:9898
-#EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://27.22.68.89:8880/rtp/239.69.1.192:10794
-#EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://27.22.68.89:8880/rtp/239.69.1.245:11112
-#EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://27.22.68.89:8880/rtp/239.69.1.34:9844
-#EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
 http://27.24.91.31:4022/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
 http://27.24.91.31:4022/rtp/239.69.1.40:9880
@@ -800,34 +864,34 @@ http://59.172.69.163:4022/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
 http://59.172.69.163:4022/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="卫视高清",湖北影视
-http://59.173.121.104:8887/rtp/239.69.1.204:10866
+http://59.173.123.188:8887/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1" tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="卫视高清",湖北公共新闻
-http://59.173.121.104:8887/rtp/239.69.1.40:9880
+http://59.173.123.188:8887/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="卫视高清",湖北经视
-http://59.173.121.104:8887/rtp/239.69.1.41:9886
+http://59.173.123.188:8887/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="卫视高清",湖北综合
-http://59.173.121.104:8887/rtp/239.69.1.42:9892
+http://59.173.123.188:8887/rtp/239.69.1.42:9892
 #EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="卫视高清",湖北生活
-http://59.173.121.104:8887/rtp/239.69.1.205:10872
+http://59.173.123.188:8887/rtp/239.69.1.205:10872
 #EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="卫视高清",湖北教育
-http://59.173.121.104:8887/rtp/239.69.1.206:10878
+http://59.173.123.188:8887/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1" tvg-name="武汉新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉新闻综合.png" group-title="卫视高清",武汉新闻综合
-http://59.173.121.104:8887/rtp/239.69.1.145:10506
+http://59.173.123.188:8887/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="1" tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="卫视高清",武汉电视剧
-http://59.173.121.104:8887/rtp/239.69.1.146:10512
+http://59.173.123.188:8887/rtp/239.69.1.146:10512
 #EXTINF:-1 tvg-id="1" tvg-name="武汉科教生活" tvg-logo="https://live.fanmingming.com/tv/武汉科教生活.png" group-title="卫视高清",武汉科教生活
-http://59.173.121.104:8887/rtp/239.69.1.251:11148
+http://59.173.123.188:8887/rtp/239.69.1.251:11148
 #EXTINF:-1 tvg-id="1" tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="卫视高清",武汉文体
-http://59.173.121.104:8887/rtp/239.69.1.147:10518
+http://59.173.123.188:8887/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-id="1" tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/H武汉外语.png" group-title="卫视高清",武汉外语
-http://59.173.121.104:8887/rtp/239.69.1.36:9856
+http://59.173.123.188:8887/rtp/239.69.1.36:9856
 #EXTINF:-1 tvg-id="1" tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="卫视高清",武汉教育
-http://59.173.121.104:8887/rtp/239.69.1.60:9994
+http://59.173.123.188:8887/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
-http://59.173.121.104:8887/rtp/239.69.1.43:9898
+http://59.173.123.188:8887/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://live.fanmingming.com/tv/房县综合.png" group-title="卫视高清",房县综合
-http://59.173.121.104:8887/rtp/239.69.1.192:10794
+http://59.173.123.188:8887/rtp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://live.fanmingming.com/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
-http://59.173.121.104:8887/rtp/239.69.1.245:11112
+http://59.173.123.188:8887/rtp/239.69.1.245:11112
 #EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="卫视高清",阳新综合
-http://59.173.121.104:8887/rtp/239.69.1.34:9844
+http://59.173.123.188:8887/rtp/239.69.1.34:9844
